@@ -1,5 +1,6 @@
 #Stock Price Prediction Model
-![Stock_Price_Prediction_Model.png](Stock_Price_Prediction_Model.png)
+<img width="1024" height="1024" alt="stock_prediction" src="https://github.com/user-attachments/assets/0de59a2e-0ccc-4d03-a638-b8cfd703f135" />
+
 ◦ Developed a time series regression model to predict daily stock closing prices using an LSTM-based deep learning architecture on real stock market data.
 <br>
 ◦ Collected and processed historical stock data from Yahoo Finance API; applied scaling, sequence windowing, and data preparation for supervised learning.
